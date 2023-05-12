@@ -17,7 +17,8 @@ h1 {
 }
 
 main {
-    margin: 100px;
+    width: 90%;
+    margin: auto;
 }
 section {
     width: 50%;
