@@ -33,7 +33,8 @@ fieldset {
 
 legend {
     width:fit-content;
-    color: green;
+    background-color: bisque;
+    color: black;
 }
 p,
 label {
